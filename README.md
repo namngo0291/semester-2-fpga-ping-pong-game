@@ -90,6 +90,8 @@ Behavioral simulation was performed in Xilinx Vivado to inspect the design signa
 
 ![Vivado RTL Simulation Waveform](docs/simulation_waveform.png)
 
+- **Hardware Demo Video:** [Watch demo](media/Demo_Video_ping_pong_game.mp4)
+
 ## How to Open the Project
 
 1. Open the project in Xilinx Vivado.
