@@ -77,10 +77,10 @@ fpga-ping-pong-game/
 
 ## Project Documentation
 
-- **Project Report (PDF):** `docs/ping_pong_game_hd.pdf`
-- **Editable Project Report:** `docs/Bao_Cao_Do_An_Ping_Pong_Game_FPGA.docx`
-- **Simulation Testbench:** `simulation/tb_ping_pong_game_hd_wrapper.v`
-- **Hardware Demo Video:** `media/Demo_Video_ping_pong_game.mp4`
+- **Project Report (PDF):** [View report](docs/ping_pong_game_hd.pdf)
+- **Editable Project Report:** [View DOCX](docs/Bao_Cao_Do_An_Ping_Pong_Game_FPGA.docx)
+- **Simulation Testbench:** [View testbench](simulation/tb_ping_pong_game_hd_wrapper.v)
+- **Simulation Waveform:** [View waveform](docs/simulation_waveform.png)
 
 Make sure the filenames and capitalization match the files uploaded to this repository.
 
