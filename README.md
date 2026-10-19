@@ -58,7 +58,8 @@ fpga-ping-pong-game/
 │   └── tb_ping_pong_game_hd_wrapper.v
 ├── docs/
 │   ├── ping_pong_game_hd.pdf
-│   └── Bao_Cao_Do_An_Ping_Pong_Game_FPGA.docx
+│   ├── Bao_Cao_Do_An_Ping_Pong_Game_FPGA.docx
+│   └── simulation_waveform.png
 └── media/
     └── Demo_Video_ping_pong_game.mp4
 ```
@@ -82,6 +83,12 @@ fpga-ping-pong-game/
 - **Hardware Demo Video:** `media/Demo_Video_ping_pong_game.mp4`
 
 Make sure the filenames and capitalization match the files uploaded to this repository.
+
+## Simulation Results
+
+Behavioral simulation was performed in Xilinx Vivado to inspect the design signals and verify the simulation behavior.
+
+![Vivado RTL Simulation Waveform](docs/simulation_waveform.png)
 
 ## How to Open the Project
 
